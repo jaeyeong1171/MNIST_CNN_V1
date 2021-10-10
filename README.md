@@ -10,4 +10,4 @@
 
 3. Classification
 
-model classify the image of number(OpenCV)
+- model classify the image of number(OpenCV)
